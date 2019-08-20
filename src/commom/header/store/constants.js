@@ -1,0 +1,10 @@
+export const SEARCH_FOCUS = 'header/SEARCH_FOCUS';
+export const SEARCH_BLUR = 'header/SEARCH_BLUR';
+export const MOUSE_ENTER = 'header/MOUSE_ENTER';
+export const MOUSE_LEAVE = 'header/MOUSE_LEAVE';
+export const GET_INPUT_VALUE = 'header/GET_INPUT_VALUE';
+export const CLEAR_INPUT = 'header/CLEAR_INPUT';
+export const CHANGE_SEARCH_PAGE = 'header/CHANGE_SEARCH_PAGE';
+export const CHANGE_LABEL_PAGE = 'header/CHANGE_LABEL_PAGE';
+export const CHANGE_SEARCH_LIST ='header/CHANGE_SEARCH_LIST';
+export const CHANGE_Middle_LIST = 'header/CHANGE_Middle_LIST';
